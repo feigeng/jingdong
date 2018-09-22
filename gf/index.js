@@ -4,6 +4,7 @@ let sWiperTop = (function(){
     let container = document.getElementById('container');
     let nav = document.getElementById('header-nav');
     let lis = nav.getElementsByTagName('li');
+    let navContent = document.getElementById('nav-content');
 
     //获取数据
     let queryData = function queryData() {
@@ -24,20 +25,46 @@ let sWiperTop = (function(){
     let bindHTML = function bindHTML(result){
 
         for (let i=0;i<result.length;i++){
+
             //移入显示对应数据
             nav.addEventListener('mouseover',function(ev){
+                navContent.parentNode.style.display = 'block';
+
                 let target = ev.target;
                 let value = target.innerText;
-                let v = result[i][value];
-                if(v !== undefined){
-                    console.log(v);
-                }
+                let val = result[i][value];
+                if(val !== undefined){
 
-            })
+                    let str = ``;
+                    for(let i=0;i<val.length;i++){
+
+                        let dev = ``;
+                        if(val[i].flag){
+                            dev = `<div class="content-flag">${val[i].flag}</div>`;
+                        }else{
+                            dev = `<div>${val[i].flag}</div>`;
+                        }
+
+                        str += `
+                            <li>
+                                ${dev}
+                                <div class="content-img">
+                                    <img src="image/${val[i].img}" alt="">
+                                </div>
+                                <div class="content-title">${val[i].series}</div>
+                                <span class="content-price">${val[i].price}</span>
+                            </li>`;
+                    }
+
+                    navContent.innerHTML = str;
+                }
+            });
+
+            // nav.addEventListener('mouseout',function(){
+            //     navContent.parentNode.style.display = 'none';
+            // });
 
         }
-
-
 
         lis[8].addEventListener('mouseover',function(ev){
             ev.stopPropagation();
