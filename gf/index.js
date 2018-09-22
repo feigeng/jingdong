@@ -1,9 +1,8 @@
 
 let sWiperTop = (function(){
 
-    let container = document.getElementById('container');
-    let nav = document.getElementById('header-nav');
-    let lis = nav.getElementsByTagName('li');
+    let site = document.getElementById('site-header');
+    let lis = site.getElementsByTagName('li');
     let navContent = document.getElementById('nav-content');
 
     //获取数据
@@ -27,7 +26,7 @@ let sWiperTop = (function(){
         for (let i=0;i<result.length;i++){
 
             //移入显示对应数据
-            nav.addEventListener('mouseover',function(ev){
+            site.addEventListener('mouseover',function(ev){
                 navContent.parentNode.style.display = 'block';
 
                 let target = ev.target;
@@ -60,9 +59,9 @@ let sWiperTop = (function(){
                 }
             });
 
-            // nav.addEventListener('mouseout',function(){
-            //     navContent.parentNode.style.display = 'none';
-            // });
+            site.addEventListener('mouseout',function(){
+                navContent.parentNode.style.display = 'none';
+            });
 
         }
 

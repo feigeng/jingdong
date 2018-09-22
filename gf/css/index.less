@@ -96,6 +96,7 @@
 .site-header{
   width:100%;
   height:100px;
+  position:relative;
 
   .container{
     width:1226px;
@@ -104,7 +105,7 @@
     margin-right:auto;
     overflow: hidden;
     font-size:16px;
-    position:relative;
+    position:absolute;
 
         li:hover{
           color: @orange;
@@ -161,65 +162,68 @@
           text-align:center;
         }
     }
-}
 
-.nav-content{
-  //display: none;
-  width:100%;
-  height: 220px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
-  overflow: hidden;
-  //transition: .3s;
+  .nav-content{
+    display: none;
+    width:100%;
+    height: 220px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+    overflow: hidden;
+    position:absolute;
+    top:100px;
+    left:0;
+    transition: .3s;
 
-  li{
-    float:left;
-    width:unit(100/6, %);
-    height:220px;
-    position:relative;
+    li{
+      float:left;
+      width:unit(100/6, %);
+      height:220px;
+      position:relative;
 
-    .content-flag{
-      width:64px;
-      height:22px;
-      border:1px solid @orange;
-      line-height: 22px;
-      text-align: center;
-      margin:0 auto;//水平居中
-    }
+      .content-flag{
+        width:64px;
+        height:22px;
+        border:1px solid @orange;
+        line-height: 22px;
+        text-align: center;
+        margin:0 auto;//水平居中
+      }
 
-    .content-img{
-      width:100%;
-      height:107px;
-      .center;
+      .content-img{
+        width:100%;
+        height:107px;
+        .center;
 
-      img{
-        display: block;
-        margin:0 auto;
+        img{
+          display: block;
+          margin:0 auto;
+        }
+      }
+
+      .content-img:not(:last-child){
+        border-right:1px solid rgba(0,0,0,0.15);
+
+      }
+
+      .content-title{
+        width:100%;
+        height:24px;
+        position:absolute;
+        bottom:20px;
+        text-align: center;
+        line-height: 24px;
+      }
+
+      .content-price{
+        width:100%;
+        height:24px;
+        position:absolute;
+        bottom:0;
+        text-align: center;
+        line-height: 24px;
+        color:@orange
       }
     }
-
-    .content-img:not(:last-child){
-      border-right:1px solid rgba(0,0,0,0.15);
-
-    }
-
-    .content-title{
-      width:100%;
-      height:24px;
-      position:absolute;
-      bottom:20px;
-      text-align: center;
-      line-height: 24px;
-    }
-
-    .content-price{
-      width:100%;
-      height:24px;
-      position:absolute;
-      bottom:0;
-      text-align: center;
-      line-height: 24px;
-      color:@orange
-    }
   }
-
 }
+
