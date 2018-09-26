@@ -1,0 +1,62 @@
+[
+  {
+    "xiaoMi": [
+      {
+        "id": 1,
+        "title": "小米8 青春版",
+        "src": "img/xiaomi05.png",
+        "price": "1900",
+        "new": "新品"
+      },
+      {
+        "id": 2,
+        "title": "小米8",
+        "src": "img/xiaomi02.png",
+        "price": "1900",
+        "new": "新品"
+      },
+      {
+        "id": 3,
+        "title": "小米8 SE",
+        "src": "img/xiaomi03.png",
+        "price": "1900",
+        "new": ""
+      },
+      {
+        "id": 4,
+        "title": "小米MAX",
+        "src": "img/xiaomi04.png",
+        "price": "1900",
+        "new": ""
+      },
+      {
+        "id": 5,
+        "title": "小米MAX 2S",
+        "src": "img/xiaomi05.png",
+        "price": "1900",
+        "new": "新品"
+      },
+      {
+        "id": 6,
+        "title": "小米MAX 2S",
+        "src": "img/xiaomi05.png",
+        "price": "1900",
+        "new": "新品"
+      },
+      {
+        "id": 7,
+        "title": "小米MAX 2S",
+        "src": "img/xiaomi05.png",
+        "price": "1900",
+        "new": "新品"
+      },
+      {
+        "id": 8,
+        "title": "小米MAX 3S",
+        "src": "img/more-app.jpg",
+        "price": "1900",
+        "new": ""
+      }
+    ]
+  }
+]
