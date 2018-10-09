@@ -1,0 +1,258 @@
+[
+  {
+    "title": "小米手机",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "1399元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "3199元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "2699元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "1799元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "1399元"
+      },
+      {
+        "img": "phone6.png",
+        "pag": "小米Mix 2X",
+        "money": "1399元"
+      }
+    ]
+  },
+  {
+    "title": "红米手机",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "1元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "3元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "2元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "9元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "13元"
+      },
+      {
+        "img": "phone6.png",
+        "pag": "小米Mix 2X",
+        "money": "9元"
+      }
+    ]
+  },
+  {
+    "title": "电视",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "13元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "31元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "26元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "17元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "19元"
+      },
+      {
+        "img": "phone6.png",
+        "pag": "小米Mix 2X",
+        "money": "13元"
+      }
+    ]
+  },
+  {
+    "title":"笔记本",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "99元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "31元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "26元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "17元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "19元"
+      },
+      {
+        "img": "phone6.png",
+        "pag": "小米Mix 2X",
+        "money": "199元"
+      }
+    ]
+  },
+  {
+    "title":"空调",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "139元"
+      }
+    ]
+  },
+  {
+    "title": "新品",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "199元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "319元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "299元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "199元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "139元"
+      }
+    ]
+  },
+  {
+    "title": "路由器",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "1399元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "3199元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "2699元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "1799元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "1399元"
+      },
+      {
+        "img": "phone6.png",
+        "pag": "小米Mix 2X",
+        "money": "1399元"
+      }
+    ]
+  },
+  {
+    "title":"智能硬件",
+    "value": [
+      {
+        "img": "phone1.png",
+        "pag": "小米8 青春版",
+        "money": "199元"
+      },
+      {
+        "img": "phone2.png",
+        "pag": "小米8 屏幕指纹板",
+        "money": "319元"
+      },
+      {
+        "img": "phone3.png",
+        "pag": "小米",
+        "money": "269元"
+      },
+      {
+        "img": "phone4.png",
+        "pag": "小米8 SE",
+        "money": "179元"
+      },
+      {
+        "img": "phone5.png",
+        "pag": "小米Max 3",
+        "money": "139元"
+      }
+    ]
+  },
+  {
+    "title": "服务",
+    "value": [
+    ]
+  },
+  {
+    "title": "社区",
+    "value": [
+    ]
+  }
+]
+
