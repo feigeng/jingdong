@@ -1,0 +1,238 @@
+[
+  {
+    "module":[
+      {
+        "img":"imgs/1/1/1.png",
+        "text":"小米8 青春版",
+        "price":"1399元起"
+      },
+      {
+        "img":"imgs/1/1/2.png",
+        "text":"小米8 屏幕指纹版",
+        "price":"3199元起"
+      },
+      {
+        "img":"imgs/1/1/3.png",
+        "text":"小米8",
+        "price":"2699元起"
+      },
+      {
+        "img":"imgs/1/1/4.png",
+        "text":"小米8 SE",
+        "price":"1799元起"
+      },
+      {
+        "img":"imgs/1/1/5.png",
+        "text":"小米Max 3",
+        "price":"1699元起"
+      },
+      {
+        "img":"imgs/1/1/6.png",
+        "text":"小米MIX 2S",
+        "price":"3299元起"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/2/1.png",
+        "text":"红米6 Pro",
+        "price":"999元起"
+      },
+      {
+        "img":"imgs/1/2/2.png",
+        "text":"红米6",
+        "price":"799元起"
+      },
+      {
+        "img":"imgs/1/2/3.png",
+        "text":"红米6A",
+        "price":"599元起"
+      },
+      {
+        "img":"imgs/1/2/4.png",
+        "text":"红米Note 5",
+        "price":"1099元起"
+      },
+      {
+        "img":"imgs/1/2/5.png",
+        "text":"红米S2",
+        "price":"999元起"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/3/1.png",
+        "text":"小米电视4 75英寸",
+        "price":"8999元起"
+      },
+      {
+        "img":"imgs/1/3/2.png",
+        "text":"小米电视4A 32英寸",
+        "price":"899元起"
+      },
+      {
+        "img":"imgs/1/3/3.png",
+        "text":"小米电视4A 43英寸青春版",
+        "price":"1499元起"
+      },
+      {
+        "img":"imgs/1/3/4.png",
+        "text":"小米电视4A 50英寸",
+        "price":"1999元起"
+      },
+      {
+        "img":"imgs/1/3/5.png",
+        "text":"小米电视4A 55英寸",
+        "price":"2499元起"
+      },
+      {
+        "img":"imgs/1/3/6.png",
+        "text":"查看全部",
+        "price":"小米电视"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/4/1.png",
+        "text":"小米平板",
+        "price":"1099元起"
+      },
+      {
+        "img":"imgs/1/4/2.png",
+        "text":"小米笔记本 15.6",
+        "price":"4199元起"
+      },
+      {
+        "img":"imgs/1/4/3.png",
+        "text":"小米游戏本 8代",
+        "price":"6699元起"
+      },
+      {
+        "img":"imgs/1/4/4.png",
+        "text":"小米笔记本Pro 15.6 GTX版",
+        "price":"6299元起"
+      },
+      {
+        "img":"imgs/1/4/5.png",
+        "text":"小米笔记本Pro",
+        "price":"5599元起"
+      },
+      {
+        "img":"imgs/1/4/6.jpg",
+        "text":"小米笔记本 Air 系列",
+        "price":"3599元起"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/5/1.jpg",
+        "text":"米家互联网空调",
+        "price":"1999元起"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/6/1.png",
+        "text":"小米8 青春版",
+        "price":"1399元起"
+      },
+      {
+        "img":"imgs/1/6/2.png",
+        "text":"小米8 屏幕指纹版",
+        "price":"3199元起"
+      },
+      {
+        "img":"imgs/1/6/3.png",
+        "text":"小米手环",
+        "price":"169元"
+      },
+      {
+        "img":"imgs/1/6/4.png",
+        "text":"小米路由器",
+        "price":"199元"
+      },
+      {
+        "img":"imgs/1/6/5.png",
+        "text":"米家投影仪",
+        "price":"3999元"
+      },
+      {
+        "img":"imgs/1/6/6.png",
+        "text":"小米VR 一体机",
+        "price":"1499元"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/7/1.png",
+        "text":"小米路由器 4",
+        "price":"199元"
+      },
+      {
+        "img":"imgs/1/7/2.png",
+        "text":"小米路由器 4Q",
+        "price":"99元"
+      },
+      {
+        "img":"imgs/1/7/3.png",
+        "text":"小米路由器 3A",
+        "price":"129元"
+      },
+      {
+        "img":"imgs/1/7/4.png",
+        "text":"小米路由器 3G",
+        "price":"199元"
+      },
+      {
+        "img":"imgs/1/7/5.png",
+        "text":"小米路由器 HD/Pro",
+        "price":"499元"
+      },
+      {
+        "img":"imgs/1/7/6.png",
+        "text":"查看全部小米路由器"
+      }
+    ]
+  },
+  {
+    "module":[
+      {
+        "img":"imgs/1/8/1.jpg",
+        "text":"小米平板",
+        "price":"1099元起"
+      },
+      {
+        "img":"imgs/1/8/2.jpg",
+        "text":"小米笔记本 15.6",
+        "price":"4199元起"
+      },
+      {
+        "img":"imgs/1/8/3.jpg",
+        "text":"小米笔记本 15.6",
+        "price":"4199元起"
+      },
+      {
+        "img":"imgs/1/8/4.jpg",
+        "text":"小米笔记本 15.6",
+        "price":"4199元起"
+      },
+      {
+        "img":"imgs/1/8/5.jpg",
+        "text":"小米笔记本 15.6",
+        "price":"4199元起"
+      }
+    ]
+  }
+]
